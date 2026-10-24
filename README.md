@@ -10,4 +10,4 @@ pip install -r requirements.txt
 pytest
 ```
 
-Then importt `calc` and call `add(1, 2)`.
+Then import `calc` and call `add(1, 2)`.
